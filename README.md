@@ -1,6 +1,6 @@
-An Interactive Reflective Journal.
+## **[An Interactive Reflective Journal.](https://jorim-m.github.io/ReflectiveJournal/)**
 
-Created using [DFlip](https://js.dearflip.com/) to create a realistic 3D FlipBook for my HCI Design [Journal](https://jorim-m.github.io/ReflectiveJournal/).
+Created using [DFlip](https://js.dearflip.com/) to create a realistic 3D FlipBook for my HCI Design Journal.
 
 ![Screenshot (296)](https://github.com/user-attachments/assets/188d50c8-5d5d-44ba-b734-fff28671a404)
 
